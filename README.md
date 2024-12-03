@@ -2,7 +2,7 @@
 
 ### 👀 Visitors
 
-<img src="https://count.getloli.com/get/@btmuli?theme=gelbooru" alt="KazeLiu's count"/>
+<img src="https://count.getloli.com/get/@KazeLiu?theme=gelbooru" alt="KazeLiu's count"/>
 <!--
 **KazeLiu/KazeLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
